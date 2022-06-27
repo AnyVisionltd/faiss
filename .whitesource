@@ -2,7 +2,7 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-    "projectToken": "",
+    "projectToken": "18e5f66e982542b7b8be68592e78a1aaffa9896a8b484882973021a92c6990b6",
     "baseBranches": []
   },
   "checkRunSettings": {
@@ -11,7 +11,7 @@
     "useMendCheckNames": true
   },
   "issueSettings": {
-    "minSeverityLevel": "LOW",
+    "minSeverityLevel": "NONE",
     "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
